@@ -3,7 +3,7 @@
   --color-secondary: #00ff00;
   --color-tertiary: #0000ff;
 
-  --font: 'Roboto', sans-serif;
+  --font : 'Roboto', sans-serif;
   --font-size: 16px;
   --font-weight: 400;
   --line-height: 1.5;
@@ -19,17 +19,4 @@
   --purple: hsl(300, 50%, 50%);
   --teal: hsl(180, 50%, 50%);
   --gray: hsl(0, 0%, 50%);
-}
-
-html {
-  height: 100%;
-}
-
-body {
-  margin: 0px;
-  height: -webkit-fill-available;
-}
-
-#target {
-  height: -webkit-fill-available;
 }

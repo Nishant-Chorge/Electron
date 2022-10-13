@@ -1,9 +1,7 @@
 {
   "WELCOME": "/",
   "ABOUT": "/about",
-  "MOTD": "/motd",
-  "LOCALIZATION": "/localization",
-  "UNDOREDO": "/undoredo",
-  "CONTEXTMENU": "/contextmenu",
-  "IMAGE": "/image"
+  "USER": "/user",
+  "REPORT1": "/report/1",
+  "REPORT2": "/report/2"
 }

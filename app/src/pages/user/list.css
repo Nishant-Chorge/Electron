@@ -1,0 +1,9 @@
+.table_container{
+  height: min(90vh, 1000px);
+  background-color: var(--color);
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+}

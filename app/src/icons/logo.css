@@ -1,0 +1,7 @@
+svg{
+  --size: 100px;
+  width: var(--size);
+  height: auto;
+  fill: var(--color);
+  margin-bottom: 10px;
+}
